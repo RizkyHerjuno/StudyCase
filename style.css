@@ -319,10 +319,6 @@ ol {
   object-position: center;
 }
 
-.about .app-detail .posneg .pos {
-  padding-bottom: 2rem;
-}
-
 /* Application */
 .app {
   display: flex;
