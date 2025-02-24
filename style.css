@@ -287,10 +287,10 @@ body {
   background-color: white;
   border: none;
   border-radius: 5px;
-  font-size: 24px;
+  font-size: 50px;
   padding: 10px;
   cursor: pointer;
-  width: 90%;
+  width: 100%;
 }
 
 .toggle-button.plus {
@@ -304,6 +304,7 @@ ol {
 
 .toggle-button.minus {
   color: var(--bg);
+  width: 150%;
 }
 
 .about .app-detail h3 {
@@ -316,6 +317,10 @@ ol {
   padding-right: 15rem;
   object-fit: cover;
   object-position: center;
+}
+
+.about .app-detail .posneg .pos {
+  padding-bottom: 2rem;
 }
 
 /* Application */
